@@ -1,2 +1,3 @@
 # leetcode
-LeetCodeSolutions
+
+### Solutions of problems from `leetcode.com`
